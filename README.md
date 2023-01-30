@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdelrahman emam
 - 👀 I’m interested in front end technology and read about it
-- 🌱 I’m currently working in HTML,CSS and Javascript
+- 🌱 I’m currently working in HTML,CSS and Javascript and jQuery and Boostrap and Sass
 - 🌱 I’m currently training in ITI 9 months professtional training in Web development
 - 📫 How to reach me:abdelrahmanemam498@gmail.com
