@@ -4,9 +4,9 @@
 - 🌱 I’m currently training in ITI 9 months professtional training in Web development
 - 📫 How to reach me:abdelrahmanemam498@gmail.com
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
 </p>
 
