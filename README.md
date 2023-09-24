@@ -24,4 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanelemam98&show_icons=true&locale=en&layout=compact" alt="abdelrahmanelemam98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelemam98&show_icons=true&locale=en" alt="abdelrahmanelemam98" /></p>
-<a href="https://app.daily.dev/abdelrahmanelemam"><img src="https://api.daily.dev/devcards/f6df171e94d040b689ce4d8b3bdad217.png?r=7rj" width="400" alt="Abdelrahman  Elemam's Dev Card"/></a>
+
