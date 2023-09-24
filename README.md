@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abdelrahman emam
-- 👀 I’m interested in full stack .Net technology and read about it
-- 🌱 I’m currently working in HTML,CSS and Javascript and jQuery and Boostrap and Sass and ASP .Net
-- 🌱 I’m currently training in ITI 9 months professtional training in Web development
+- 👀 I’m interested in full-stack .Net technology and read about it
+- 🌱 I’m currently working in HTML, CSS and Javascript and jQuery Bootstrap and Sass and ASP .Net
+- 🌱 I’m currently training in ITI 9 months professional training in Web development
 - 📫 How to reach me:abdelrahmanemam498@gmail.com
 
 
@@ -24,3 +24,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelrahmanelemam98&show_icons=true&locale=en&layout=compact" alt="abdelrahmanelemam98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelrahmanelemam98&show_icons=true&locale=en" alt="abdelrahmanelemam98" /></p>
+<a href="https://app.daily.dev/abdelrahmanelemam"><img src="https://api.daily.dev/devcards/f6df171e94d040b689ce4d8b3bdad217.png?r=7rj" width="400" alt="Abdelrahman  Elemam's Dev Card"/></a>
