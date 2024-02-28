@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Abdelrahman emam
 - 👀 I’m interested in full-stack .Net technology and read about it
-- 🌱 I’m currently working in HTML, CSS and Javascript and jQuery Bootstrap and Sass and ASP .Net
-- 🌱 I’m currently training in ITI 9 months professional training in Web development
+- 🌱 I’m currently working in HTML, CSS Javascript and jQuery Bootstrap and Sass, and ASP .Net
+- 🌱 I’m graduated from  ITI 9 months of professional training in Web development
+- 🌱 I’m currently working at fawry banking and payment technology services
 - 📫 How to reach me:abdelrahmanemam498@gmail.com
 
 
